@@ -1,4 +1,3 @@
-
 ## teste de dados cy
 
 Projeto de exemplo para demonstrar um cy.dataTestcomando personalizado do Cypress.
