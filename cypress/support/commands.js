@@ -1,3 +1,4 @@
+
 Cypress.Commands.add('fillMandatoryFieldsAndSubmit', (data = {
     firstName:'John',
     lastName: 'Doe',
